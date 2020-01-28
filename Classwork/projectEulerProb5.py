@@ -1,4 +1,5 @@
-# G00364712 Robert Higgins - Exercise 4
+# Robert Higgins G00364712
+# 12th Feb 2018
 # Euler Project Problem 5: Smallest multiple of numbers from 1 - 20
 
 def lcm(x, y):
